@@ -52,7 +52,7 @@ section{
 }
 
 #bloque1{
-    background: url('../sec23.jpg');
+    background: url('./img/sec23.jpg');
 
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -60,19 +60,19 @@ section{
 
 }
 #bloque2{
-    background: url('../sec20.jpg');
+    background: url('./img/sec20.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #bloque3{
-    background-image: url('../sec29.jpeg');
+    background-image: url('./img/sec29.jpeg');
 
 }
 
 #bloque4{
-    background-image: url('../sec26.jpg');
+    background-image: url('./img/sec26.jpg');
 
 
 }
