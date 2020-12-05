@@ -53,10 +53,10 @@ section{
 
 #bloque1{
     background: url('./img/sec23.jpg');
-
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    object-fit: cover;
 
 }
 #bloque2{
@@ -64,17 +64,23 @@ section{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    object-fit: cover;
 }
 
 #bloque3{
     background-image: url('./img/sec29.jpeg');
-
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
 }
 
 #bloque4{
     background-image: url('./img/sec26.jpg');
-
-
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
 }
 
 h1{
